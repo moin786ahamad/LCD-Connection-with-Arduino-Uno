@@ -1,0 +1,6 @@
+1:-> LCD Screen 16*2
+2:--> 10K ohm Potentiometer
+3:--> 220 ohm resistor
+4:--> Bread-Board
+5:--> Arduino Uno R3
+6:--> Jumper Wires
